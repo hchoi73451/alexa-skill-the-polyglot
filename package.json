@@ -1,0 +1,22 @@
+{
+  "name": "alexa-skill-the-polyglot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  },
+  "devDependencies": {
+    "aws-lambda-mock-context": "^3.2.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
